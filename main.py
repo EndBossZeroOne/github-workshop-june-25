@@ -1,2 +1,3 @@
-print("Deez nuts")
-kmllk
+print("First entry")
+
+print("We have made some new changes")
